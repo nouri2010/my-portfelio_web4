@@ -1,0 +1,163 @@
+@import url(rezet.css);
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  align-items: center;
+}
+ul {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+ul li a{
+  color: #808080
+}
+.hom{
+  color: rgb(0, 0, 0);
+}
+
+.presntt {
+  color: #333;
+  font-size: 174px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 176px;
+  margin-bottom: 80px;
+}
+.github{
+  margin-top: 146px;
+  margin: 146px 830px 70px 104px;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+}
+.click {
+  color: #808080;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  margin-top: 80px;
+  
+}
+.about {
+  margin: 146px 830px 70px 104px;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+.kattasi {
+  background-image: url(..//img/laptop.png);
+  width: 1440px;
+  height: 800px;
+  position: relative;
+}
+.pes {
+  position: absolute;
+  background-color: black;
+  opacity: 70%;
+  width: 50%;
+  height: 100%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-flow: column wrap;
+  align-items: center;
+}
+.fastoru{
+  color: #808080;
+  font-size: 69px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60px;
+  margin-bottom: 29px;
+}
+.app {
+  color: #fff;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52px;
+  margin-bottom: 29px;
+  text-align: start;
+}
+.hide {
+  color: #7a7a7a;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  margin-bottom: 20px;
+}
+.country {
+  color: #fff;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+view{
+  color: #fff;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+.telegram {
+  background-image: url(..//img/phone.png);
+  width: 1440px;
+  height: 800px;
+  position: relative;
+}
+.images {
+  background-image: url(../img/wall.png);
+  width: 1440px;
+  height: 800px;
+  position: relative;
+}
+.presnt {
+  width: 318px;
+  color: #7a7a7a;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  margin-bottom: 20px;
+  text-align: start;
+  margin-left: 20px;
+}
+.tarmoqlar{
+  display: flex;
+  gap: 20px;
+  color: #808080;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 399;
+  line-height: 19px;
+  margin-bottom: 44px;
+}
+footer {
+  width: 1166.391px;
+  height: 412.328px;
+  margin: 0 auto;
+}
+.classs {
+  margin-bottom: 50px;
+  margin-top: 90px;
+}
+.write p {
+  color: #b8b8b8;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
